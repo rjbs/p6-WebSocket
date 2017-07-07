@@ -13,7 +13,7 @@ See WebSocket::P6W.
 DESCRIPTION
 ===========
 
-WebSocket.pm is a libraary to write a WebSocket server.
+WebSocket.pm is a library to write a WebSocket server.
 
 See WebSocket::P6W for more details.
 
